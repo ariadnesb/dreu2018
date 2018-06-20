@@ -1,0 +1,63 @@
+html {
+  /* everything that u put here will impact contents of <html> 
+  aka everything */ 
+  font-family: 'Roboto', sans-serif;
+  background-color: offwhite;
+
+}
+
+#custom-id {
+    background-color: black;
+    color: white;
+}
+
+.custom-class{
+    color: blue;
+    display: inline;
+
+}
+
+#name {
+    color: #66D167;
+}
+
+#header h1 {
+    display: inline;
+    color: olive;
+}
+
+#header h2 {
+    display: inline;
+}
+
+#header .nav-bar  {
+    display: inline;
+    float: right;
+    list-style-type: none;
+    /*margin: 0;*/
+    padding: 0;
+
+}
+
+#header li {
+    display: inline;
+    padding: 0;
+    background-color: none;
+}
+
+ a {
+    text-decoration: none;
+    display: inline;
+    color: black;
+
+}
+
+ a:hover {
+    background-color: olive;
+    display: inline;
+    color:white;
+}
+
+#emb_link {
+    text-decoration: underline;
+}
