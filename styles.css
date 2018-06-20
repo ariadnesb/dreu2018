@@ -23,19 +23,17 @@ html {
 
 #header h1 {
     display: inline;
-    color: olive;
 }
 
 #header h2 {
     display: inline;
+    color: olive;
 }
 
 #header .nav-bar  {
     display: inline;
     float: right;
     list-style-type: none;
-    /*margin: 0;*/
-    padding: 0;
 
 }
 
@@ -60,4 +58,9 @@ html {
 
 #emb_link {
     text-decoration: underline;
+}
+
+#journal {
+    display:inline-block;
+    margin: 70px;
 }
