@@ -64,3 +64,15 @@ html {
     display:inline-block;
     margin: 70px;
 }
+
+#journal h2 {
+    color: olive;
+}
+
+#journal p{
+    margin-left: 20px;
+}
+
+#paragraph {
+    margin: 70px;
+}
