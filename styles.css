@@ -1,7 +1,7 @@
 html {
   /* everything that u put here will impact contents of <html> 
   aka everything */ 
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-color: offwhite;
 
 }
@@ -76,3 +76,4 @@ html {
 #paragraph {
     margin: 70px;
 }
+
